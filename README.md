@@ -1,6 +1,6 @@
 # The Pivot - Base Project
 
-The following Rails app is used as the base project for [The Pivot](http://backend.turing.io/module3/projects/the_pivot).
+@aschreck, @erikaannesmith, and @limsammy built this rails app for [The Pivot](http://backend.turing.io/module3/projects/the_pivot) as a part of their eduation at the Turing School of Software and Design.
 
 ## Setup
 
